@@ -6,7 +6,7 @@
 This repository contains data and scripts for conducting sentiment analysis on tweets related to ChatGPT. The analysis aims to understand public perception and sentiment trends towards ChatGPT based on user-generated content on social media platforms.
 
 ## Dataset Used
-The primary dataset used in this analysis is from Galton's observations on children's and their parents' heights, sourced from [https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis/data]. The dataset file is included in this repository.
+The primary dataset used in this analysis is from Galton's observations on children's and their parents' heights, sourced from [https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis/data]. 
 
 ## Objective
 To analyze sentiment from ChatGPT-related tweets to understand user perceptions.
