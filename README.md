@@ -28,6 +28,9 @@ To run the analysis scripts and visualize the data, ensure you have the followin
 - Seaborn
 - Matplotlib
 
+## Prodigy_Infotech_Internship_Task-04
+This project is Task 3 of the Prodigy Infotech internship. The objective is to Analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
